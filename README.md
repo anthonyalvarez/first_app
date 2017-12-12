@@ -1,4 +1,9 @@
 # README
+# Ruby on Rails Tutorial: first application
+
+This is first appliaction for 
+[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org)
+by [Micheal Hartl](http://michaelhartl.com/).
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
